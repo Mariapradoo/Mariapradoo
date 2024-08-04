@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**Mariapradoo/Mariapradoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda
 
-Here are some ideas to get you started:
+- estou estudando na [Alura](https://www.alura.com.br)
+- estou me desenvlvendo na linguagem JavaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+  ### você entrar emcontato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  mdopradodomingos@gmail.com
+ 
+  @by.pr4do
+
+   ![image](https://github.com/user-attachments/assets/938ca3f4-5c35-4dca-8a71-f41deb2fc969)
